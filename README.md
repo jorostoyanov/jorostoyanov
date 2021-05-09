@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Georgi (@jorostoyanov) and I am a Full Stack Developer.
+
+I have a passion for building great products. I am specialising in complex apps development based on WordPress, WooCommerce, Laravel, VueJS, ReactJS and TailwindCSS. I am striving to provide the best possible experience and meet Clients' expectations.
+
+I am willing to try new things for each Project I take and tend to provide more than expected.
+
 <!--
 **jorostoyanov/jorostoyanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
